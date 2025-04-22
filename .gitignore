@@ -1,2 +1,5 @@
 .env
 env/
+ai/
+__pycache__/
+.vscode/

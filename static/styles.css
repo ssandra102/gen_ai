@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    margin-bottom: 1rem;
+}
+
+p.lead {
+    font-size: 1.25rem;
+}
+
+.list-unstyled {
+    padding-left: 0;
+}
+
+.btn {
+    width: 200px;
+}
+
+.project-img {
+    transition: opacity 0.2s ease-in-out;
+}
+
+.project-img:hover {
+    opacity: 0.7;
+}

@@ -17,3 +17,10 @@ Enter the following command to run the web app:<br>
 streamlit run ques_ans.py
 ```
 (note: code is part of my learning process and not production-ready.)
+
+<br>
+
+streamlit
+google-generativeai
+python-dotenv
+cohere
